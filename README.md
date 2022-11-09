@@ -16,10 +16,6 @@
 - 💬 Ask me about CyberSecurity and it's related domain, Networking and Programming, although, I'm not too good in the fiedl, I will surely have an answer for you
 - 😄 I love Football, Ethical Hacking(💻), Traveling(🌍), and Photography(📷)
 
-<Br>
-<hr><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /><b><i align="center">Thought: "Learning while HOPING & HUSTLING!!!”</i></b><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-
-<Br>
 <hr><h3 align="center">Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h3>
 <p align="center">
 <a href="https://twitter.com/fabionguessie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="aryasoni98" height="30" width="40" /></a>
@@ -29,11 +25,8 @@
 <a href="https://github.com/NGUESSIE-FABIOLA/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="@aryasoni98" height="30" width="40" /></a>
 </p>
 
-<Br>
-<hr>
-<Br>
+
 <h1 align="center">Skills I have! 🤸‍♂</h1>
-<Br>
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
