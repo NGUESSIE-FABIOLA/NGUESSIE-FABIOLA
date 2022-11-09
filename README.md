@@ -7,7 +7,7 @@
   <a src="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Specialization+CyberSecurity;Competitive+CyberSecurity+Enthousiast;QuickDo+Hackathon+2022;Ethical%20|%20Hacking%20|Practitioner%20;Specialist%20on%20Web+Application+Pentest;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<h3 align="center"> Here's some cool facts about me 😎: </h3>
+<h3> Here's some cool facts about me 😎: </h3>
 - 🔭 I'm currently working as a Web Application Vulnerability Analysis
 - 🌱 I've 8+ months of professional experience both as an intern and as Job holder through I have implented Security policies, did some vulnerability scanning, discovery, exploit them and remedy the solution for the company.
 - 📚 I'm looking to collaborate on any CyberSecurity projet and Programming to leverage my skills
