@@ -28,9 +28,6 @@
 
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
 ## Languanges and Tools
 
 <p>
